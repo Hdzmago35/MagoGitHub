@@ -1,0 +1,1 @@
+Acabo de subir a mi repositorio MagoGitHub, archivos de proyecto de prueba GIT-PROYECTO, y su propósito es aprender a usa esta tecnologia de GIT nivel local y GIHUB en la web, para el control de versiones. Esto fue realizado el 25.5.25,miercoles
